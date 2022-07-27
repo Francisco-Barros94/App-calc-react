@@ -38,9 +38,6 @@ Here's the link: https://mjyuk.csb.app/
 <!-- ROADMAP -->
 ## Roadmap
 
-- [ ] Add rules/wiki
-- [ ] Add different background
-- [ ] Add better UI
 - [ ] Other
     - [ ] Other
     - [ ] Other
@@ -51,7 +48,7 @@ Here's the link: https://mjyuk.csb.app/
 <!-- LINKS -->
 ## Links
 
-Project Link: [https://github.com/Francisco-Barros94/Game-pig](https://github.com/Francisco-Barros94/Game-pig)
+Project Link: [https://github.com/Francisco-Barros94/App-calc-react](https://github.com/Francisco-Barros94/App-calc-react)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
